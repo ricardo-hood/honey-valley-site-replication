@@ -7,7 +7,7 @@
 May 6, 2026
 
 Website Deployed to Netifly can be viewed here:
-[Honey Valley Website](https://69fbef23fb5f7c659db293ef--ornate-gaufre-064e70.netlify.app/)
+[Honey Valley Website](https://ornate-gaufre-064e70.netlify.app/)
 
 ### honey-valley-site-replication
 

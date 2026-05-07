@@ -1,13 +1,13 @@
 # Vector Technology Institute
 
-## Web Design and Development Class
+### Web Design and Development Class
 
 #### Ricardo Hood
 
 May 6, 2026
 
-Deployed to Netifly:
-[Honey Valley Website](https://#)
+Website Deployed to Netifly can be viewed here:
+[Honey Valley Website](https://69fbef23fb5f7c659db293ef--ornate-gaufre-064e70.netlify.app/)
 
 ### honey-valley-site-replication
 
